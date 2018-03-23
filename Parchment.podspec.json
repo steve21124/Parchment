@@ -10,8 +10,7 @@
   },
   "social_media_url": "http://twitter.com/rechsteiner",
   "source": {
-    "git": "https://github.com/rechsteiner/Parchment.git",
-    "tag": "v1.0.3"
+    "git": "https://github.com/rechsteiner/Parchment.git"
   },
   "platforms": {
     "ios": "8.2"
